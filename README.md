@@ -51,8 +51,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system that lever
 
 If you have a Git repository URL:
 ```bash
-git clone https://github.com/your-repo-url.git # Replace with your actual repo URL
-cd project_name # Replace with your project directory name
+git clone https://github.com/jayachandranpm/Web-Search-Agent.git # Replace with your actual repo URL
+cd project naem # Replace with your project directory name
 ```
 Or, if you downloaded the files, extract them to a project directory.
 
